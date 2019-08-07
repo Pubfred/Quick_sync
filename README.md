@@ -3,7 +3,7 @@ How to quick sync Zeon Blockchain with google drive file on Ubuntu 18.04 ...
  (We download zeon_blocks_385000.tar.gz from Google Drive 591.9 MB )
 
 
-## Method1 with bash_aliases 
+### Method 1 with bash_aliases 
  
  
  
@@ -25,9 +25,10 @@ How to quick sync Zeon Blockchain with google drive file on Ubuntu 18.04 ...
     
     tar xvf  zeon_blocks_385000.tar.gz
     
- ## Method2 with 
+ ### Method 2 with 
  
-    git clone 
+    git clone https://github.com/Pubfred/Quick_sync.git
+    cd ~/Quick_sync
     bash quick_sync.sh
    
     
