@@ -21,7 +21,7 @@ rm -rf /tmp/cookies.txt
 
 EOF
 
-bash exec
+exec bash
 
 zeon-cli stop 
 
