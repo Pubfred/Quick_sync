@@ -22,9 +22,9 @@ zeon-cli stop
 
 cd ~/.zeon
 
-gdrive_download 1cy4kPV1_seCXTTPilHZ5JOLzb1cz2YQn zeon_blocks_385000.tar.gz
+gdrive_download 1ztyhwev0_vANRIF6WA8xVV95pyg1TonQ zeon_blocks_last.tar.gz
 
-sudo tar -xvf  ~/.zeon/zeon_blocks_385000.tar.gz
+sudo tar -xvf  ~/.zeon/zeon_blocks_last.tar.gz
 
 
 
