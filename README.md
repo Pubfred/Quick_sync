@@ -21,9 +21,9 @@ How to quick sync Zeon Blockchain with google drive file on Ubuntu 18.04 ...
     
     cd ~/.zeon 
      
-    gdrive_download 1cy4kPV1_seCXTTPilHZ5JOLzb1cz2YQn zeon_blocks_385000.tar.gz
+    gdrive_download 1ztyhwev0_vANRIF6WA8xVV95pyg1TonQ zeon_blocks_last.tar.gz
     
-    tar xvf  zeon_blocks_385000.tar.gz
+    tar xvf  zeon_blocks_last.tar.gz
     
  ### Method 2 with git clone
  
