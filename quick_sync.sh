@@ -2,7 +2,7 @@
 # Zeon Quick sync Script V1.2 for Ubuntu 18.04 LTS
 # (c) 2019 by Pubfred for ZEON
 #
-# Script will attempt to download zeon_blocks_385000.tar.gz
+# Script will attempt to download zeon_blocks_last.tar.gz
 # from Google Drive and copy blocks in ~/.zeon folder .
 #
 # Usage:
